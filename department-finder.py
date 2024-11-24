@@ -1,0 +1,1 @@
+# This file contains the code relating to GPS location and finding the nearest 2-3 departments for the requested services.
